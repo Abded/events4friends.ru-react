@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/events4friends.ru-react/precache-manifest.85e4b469ab0028556c63fe42a61446de.js"
+  "/events4friends.ru-react/precache-manifest.5445589dc953077f1eec4fb7ee88a8c4.js"
 );
 
 workbox.clientsClaim();
