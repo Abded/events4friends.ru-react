@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/events4frients.ru-react/precache-manifest.8790941751493b9001e5534675a2e729.js"
+  "/events4friends.ru-react/precache-manifest.85e4b469ab0028556c63fe42a61446de.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/events4frients.ru-react/index.html", {
+workbox.routing.registerNavigationRoute("/events4friends.ru-react/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
