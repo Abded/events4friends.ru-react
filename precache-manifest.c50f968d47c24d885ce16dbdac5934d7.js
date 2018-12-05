@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7fb5497190dc7f64599b",
-    "url": "/events4friends.ru-react/static/css/main.05786195.chunk.css"
+    "revision": "7d39804073692920f96a",
+    "url": "/events4friends.ru-react/static/css/main.45590981.chunk.css"
   },
   {
-    "revision": "7fb5497190dc7f64599b",
-    "url": "/events4friends.ru-react/static/js/main.7fb54971.chunk.js"
+    "revision": "7d39804073692920f96a",
+    "url": "/events4friends.ru-react/static/js/main.7d398040.chunk.js"
   },
   {
     "revision": "5a83ede0e923ed248674",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/events4friends.ru-react/static/js/runtime~main.f9cc688f.js"
   },
   {
-    "revision": "ea1d3c162171789e1ff2b305b3fc4048",
+    "revision": "1ef8334a5bd1bcc6d9a6a8a4a1a78c77",
     "url": "/events4friends.ru-react/index.html"
   }
 ];
